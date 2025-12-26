@@ -4,8 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=squidlover900" alt="squidlover900" /></a> </p>
 
-- 🌱 I'm currently learning **full stack on scrimba.com
-https://scrimba.com/?via=u0123ip**
+- 🌱 I'm currently learning **full stack on scrimba.com**
+- https://scrimba.com/?via=u0123ip
 
 - 📫 How to reach me **contact@isaacou.com**
 
